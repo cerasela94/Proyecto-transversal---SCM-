@@ -8,7 +8,7 @@ public class Usuario {
 	}
 	public void setUsuario(String usuario) {
 		this.usuario = usuario;
-	}
+	} 
 
 	public Usuario(String usuario, String contraseya) {
 		super();
