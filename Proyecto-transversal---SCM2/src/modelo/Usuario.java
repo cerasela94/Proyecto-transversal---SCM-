@@ -4,7 +4,7 @@ public class Usuario {
 	private String usuario;
 	private String contraseya;
 	public String getUsuario() {
-		return usuario;
+		return usuario; 
 	}
 	public void setUsuario(String usuario) {
 		this.usuario = usuario;
